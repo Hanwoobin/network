@@ -1,2 +1,0 @@
-apt-get install fonts-unfonts-core -y
-apt-get install ibus-hangul -y
